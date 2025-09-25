@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides the list of readings for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

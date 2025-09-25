@@ -5,6 +5,8 @@ description: This section provides online references for additional resources in
   links to areas that any reader can explore in this field. Many of the linked sites
   provide resources for further study, as well as downloadable resources that can
   be used for classroom teaching.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
