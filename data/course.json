@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2001",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ]
+  ],
+  "legacy_uid": "e81f1c32-d59f-68f6-9244-c184231a9411",
+  "instructors": {
+    "content": [
+      "85759333-a5ca-caa1-eee0-4a7b45335433"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1e80bfe1-60e0-d5b2-f772-3d1b7d23cc56",
+    "website": "9-357-special-topics-in-vision-science-fall-2001"
+  },
+  "course_title": "Special Topics in Vision Science",
+  "hide_download": true,
+  "course_description": "An advanced seminar on issues of current interest in human and machine vision. Topics vary from year to year. This year, the class will involve studying the perception of materials. Participants discuss current literature as well as their ongoing research. Topics are tackled from multiple standpoints, including optics, psychophysics, computer graphics and computer vision.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.357",
+  "course_image_thumbnail": {
+    "content": "0f008eff-b73d-cf0a-be17-7b9da7285a51",
+    "website": "9-357-special-topics-in-vision-science-fall-2001"
+  },
+  "hide_download_original": null,
+  "learning_resource_types": [],
+  "site_uid": "242d48a4-9b8c-4ab8-a484-f3a150a3346c",
+  "site_short_id": "9.357-fall-2001",
+  "site_url_path": "courses/9-357-special-topics-in-vision-science-fall-2001",
+  "title": "Course Metadata"
+}
